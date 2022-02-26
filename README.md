@@ -1,4 +1,4 @@
-# Samples of gRPC services in ASP.NET Core 5.0 (work in progress)
+# Samples of gRPC services in ASP.NET Core 6.0
 
 ## Prerequistes 
 
