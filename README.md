@@ -13,7 +13,7 @@ If you don't setup a database, the sample runs by default by In Memory database
 ## Samples
 Sample of Layered architecture (Ntier)
 
-Sample of Repository pattern with EF Core 3
+Sample of Repository pattern with EF Core
 
 Sample of gRPC CRUD operation
 
@@ -27,9 +27,9 @@ Sample of token validation and get authenticated user from ServerCallContext
 
 Sample of KeyVault configuration and usage
 
-Sample of .NET Core 5.0 client CRUD consumption
+Sample of .NET Core 6.0 client CRUD consumption
 
-Sample of .NET Core 5.0 client using Polly resiliency
+Sample of .NET Core 6.0 client using Polly resiliency
 
 Sample of integration tests (work in progess)
 
